@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Software development aka where 'It works on my machine' is code for 'Brace for stress!'
 
-💙*** VIEW/SHARE MY RESPIRATORIES!!!***💙
+💙*** VIEW/SHARE MY REPOSITORIES!!!***💙
 <!---
 simonee8420/simonee8420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
