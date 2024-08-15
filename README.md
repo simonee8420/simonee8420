@@ -10,4 +10,4 @@
 simonee8420/simonee8420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Description of GIF](https://github.com/simonee8420/DEVELOPER/blob/main/software%20development.gif?raw=true)
+![Description of GIF](https://github.com/simonee8420/DEVELOPER1/blob/main/DEVELOPER%201.gif?raw=true)
