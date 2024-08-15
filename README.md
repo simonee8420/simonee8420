@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simonee8420
+- 👋 Hi, I’m Simone Lattimore 
 - 👀 I’m interested in Software Development, UI/UX Research and Desgin
 - 🌱 I’m currently learning: Python, Java, HCI, Figma, AdobeXD
 - 💞️ I’m looking to collaborate on system level programming that challenges to create user-centric and aesthetically pleasing interfaces
