@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Simone Lattimore 
-- 👀 I’m interested in Software Development, UI/UX Research and Desgin
+- 👀 I’m interested in Software Development, UI/UX Research, and Design
 - 🌱 I’m currently learning: Python, Java, HCI, Figma, AdobeXD
 - 💞️ I’m looking to collaborate on system-level programming that challenges to create user-centric and aesthetically pleasing interfaces
 - 📫 How to reach me: simonee8420@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Software development: where 'It works on my machine' is code for 'Brace for stress!'
+- ⚡ Fun fact: Software development aka where 'It works on my machine' is code for 'Brace for stress!'
 
 <!---
 simonee8420/simonee8420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
