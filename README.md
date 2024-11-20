@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.1em;">
-  I'm a Computer Science major with a focus on Python and data science. Currently, I work as a Data Entry Clerk at an animal shelter and am on the lookout for an internship in IT/Software development 2024-2025. Feel free to connect with me on <a href="https://www.linkedin.com/in/your-profile" style="color: #ff69b4; text-decoration: none;">LinkedIn</a> or drop me an email at <a href="mailto:simonee8420@gmail.com" style="color: #ff69b4; text-decoration: none;">simonee8420@gmail.com</a>!
+  I'm a Computer Science major focusing on Python and C+ Programming. Currently, I work as a Data Entry Clerk at an animal shelter and am looking for an internship in IT/Software development 2024-2025. Feel free to connect with me on <a href="https://www.linkedin.com/in/your-profile" style="color: #ff69b4; text-decoration: none;">LinkedIn</a> or drop me an email at <a href="mailto:simonee8420@gmail.com" style="color: #ff69b4; text-decoration: none;">simonee8420@gmail.com</a>!
 </p>
 
 ## 🌟 About Me
@@ -41,4 +41,4 @@ When I'm not coding, you might find me exploring new tech trends or diving into 
 
 Software development: aka where 'It works on my machine' is code for 'Brace for stress!'
 
-Feel free to explore my repositories and get in touch if you have any questions or opportunities to collaborate! 💖
+Feel free to explore my repositories! Contact me if you have any questions or opportunities to collaborate! 💖
