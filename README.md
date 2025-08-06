@@ -16,9 +16,6 @@ I'm passionate about using technology to solve real-world problems and explore n
 
 I have worked on various personal projects, from creating data visualizations to developing web applications. Here are a few highlights:
 
-- **[Personal Finance Tracker](https://github.com/your-username/personal-finance-tracker)**: A web app to manage and visualize personal financial data.
-- **[Data Analysis with Python](https://github.com/your-username/data-analysis-python)**: Python scripts for analyzing and visualizing data sets.
-
 ### 💻 Skills
 
 - **Programming Languages**: Python, SQL
